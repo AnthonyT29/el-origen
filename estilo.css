@@ -1,0 +1,15 @@
+:root { color-scheme: dark; }
+body {
+  margin: 0;
+  background: #0f0e0d;
+  color: #e9e4dc;
+  font: 18px/1.65 Georgia, "Times New Roman", serif;
+}
+main { max-width: 680px; margin: 0 auto; padding: 56px 20px 80px; }
+h1 { font-size: 2.4rem; font-weight: normal; letter-spacing: 0.02em; margin: 0 0 8px; }
+h2 { font-size: 1.25rem; font-weight: normal; margin: 40px 0 8px; color: #fff; }
+p, li { color: #cfc8bd; }
+a { color: #e9e4dc; }
+.bajada { font-style: italic; color: #a39b8f; margin-bottom: 40px; }
+nav { margin-top: 48px; color: #a39b8f; font-size: 0.95rem; }
+nav a { margin-right: 18px; }
